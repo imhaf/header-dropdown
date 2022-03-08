@@ -1,0 +1,10 @@
+.dropdown-title {
+  font: normal normal bold 16px/19px var(--bs-font-sans-serif);
+  color: #333333;
+}
+.product-item {
+  display: flex;
+  .product-image {
+    margin-right: 8px;
+  }
+}

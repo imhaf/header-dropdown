@@ -1,5 +1,7 @@
 # HeaderDropdown
 
+Click [here](https://header-dropdown-poc.netlify.app/) for demo.
+
 Screenshot:
 ![Header dropdown!](dropdown.png "Header with dropdown")
 
